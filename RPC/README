@@ -1,0 +1,6 @@
+15-440 Distributed Systems
+Kun Woo Yoo
+kunwooy@andrew.cmu.edu
+
+This is a basic implementation of RPC (Remote Procedure Call) that operates on basic C system calls 
+(such as open, close, read, write, etc). It uses TCP connection.
